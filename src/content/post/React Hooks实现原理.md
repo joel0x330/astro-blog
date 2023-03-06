@@ -1,6 +1,5 @@
 ---
 title: "React Hooks 实现原理"
-description: "A simple explanation of how react hooks work."
 publishDate: "22 Feb 2023"
 tags: ["react"]
 ---
