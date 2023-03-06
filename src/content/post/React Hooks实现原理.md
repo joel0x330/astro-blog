@@ -1,6 +1,7 @@
 ---
 title: "React Hooks 实现原理"
 publishDate: "22 Feb 2023"
+description: "Another example post for Astro Cactus, this time written in a plain markdown file"
 tags: ["react"]
 ---
 
